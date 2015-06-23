@@ -9,3 +9,6 @@ qhelp.c
 sc.1
 statres.h
 y.tab.h
+sc
+psc
+scqref
